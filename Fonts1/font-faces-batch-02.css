@@ -1,0 +1,545 @@
+/* ============================================================
+   FONT FACE DEFINITIONS — BATCH 02
+   Families: Chillax, ClarityCity, ClashDisplay, ClearSans,
+             CreatoDisplay, Dortmund, Excon, Freesentation,
+             Gabarito, Gambarino
+   ============================================================ */
+
+/* ============================================================
+   7. CHILLAX
+   ============================================================ */
+
+@font-face {
+  font-family: 'Chillax';
+  src: url('fonts/Chillax_Complete/Fonts/Chillax-Extralight.ttf') format('truetype');
+  font-weight: 200;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Chillax';
+  src: url('fonts/Chillax_Complete/Fonts/Chillax-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Chillax';
+  src: url('fonts/Chillax_Complete/Fonts/Chillax-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Chillax';
+  src: url('fonts/Chillax_Complete/Fonts/Chillax-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Chillax';
+  src: url('fonts/Chillax_Complete/Fonts/Chillax-Semibold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Chillax';
+  src: url('fonts/Chillax_Complete/Fonts/Chillax-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Chillax';
+  src: url('fonts/Chillax_Complete/Fonts/Chillax-Variable.ttf') format('truetype');
+  font-weight: 100 900;
+  font-style: normal;
+}
+
+
+/* ============================================================
+   8. CLARITY CITY
+   ============================================================ */
+
+@font-face {
+  font-family: 'ClarityCity';
+  src: url('fonts/clarity_city_next/ClarityCity-Thin.ttf') format('truetype');
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'ClarityCity';
+  src: url('fonts/clarity_city_next/ClarityCity-ThinItalic.ttf') format('truetype');
+  font-weight: 100;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'ClarityCity';
+  src: url('fonts/clarity_city_next/ClarityCity-ExtraLight.ttf') format('truetype');
+  font-weight: 200;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'ClarityCity';
+  src: url('fonts/clarity_city_next/ClarityCity-ExtraLightItalic.ttf') format('truetype');
+  font-weight: 200;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'ClarityCity';
+  src: url('fonts/clarity_city_next/ClarityCity-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'ClarityCity';
+  src: url('fonts/clarity_city_next/ClarityCity-LightItalic.ttf') format('truetype');
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'ClarityCity';
+  src: url('fonts/clarity_city_next/ClarityCity-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'ClarityCity';
+  src: url('fonts/clarity_city_next/ClarityCity-RegularItalic.ttf') format('truetype');
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'ClarityCity';
+  src: url('fonts/clarity_city_next/ClarityCity-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'ClarityCity';
+  src: url('fonts/clarity_city_next/ClarityCity-MediumItalic.ttf') format('truetype');
+  font-weight: 500;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'ClarityCity';
+  src: url('fonts/clarity_city_next/ClarityCity-SemiBold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'ClarityCity';
+  src: url('fonts/clarity_city_next/ClarityCity-SemiBoldItalic.ttf') format('truetype');
+  font-weight: 600;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'ClarityCity';
+  src: url('fonts/clarity_city_next/ClarityCity-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'ClarityCity';
+  src: url('fonts/clarity_city_next/ClarityCity-BoldItalic.ttf') format('truetype');
+  font-weight: 700;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'ClarityCity';
+  src: url('fonts/clarity_city_next/ClarityCity-ExtraBold.ttf') format('truetype');
+  font-weight: 800;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'ClarityCity';
+  src: url('fonts/clarity_city_next/ClarityCity-ExtraBoldItalic.ttf') format('truetype');
+  font-weight: 800;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'ClarityCity';
+  src: url('fonts/clarity_city_next/ClarityCity-Black.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'ClarityCity';
+  src: url('fonts/clarity_city_next/ClarityCity-BlackItalic.ttf') format('truetype');
+  font-weight: 900;
+  font-style: italic;
+}
+
+
+/* ============================================================
+   9. CLASH DISPLAY
+   ============================================================ */
+
+@font-face {
+  font-family: 'ClashDisplay';
+  src: url('fonts/ClashDisplay_Complete/Fonts/ClashDisplay-Extralight.ttf') format('truetype');
+  font-weight: 200;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'ClashDisplay';
+  src: url('fonts/ClashDisplay_Complete/Fonts/ClashDisplay-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'ClashDisplay';
+  src: url('fonts/ClashDisplay_Complete/Fonts/ClashDisplay-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'ClashDisplay';
+  src: url('fonts/ClashDisplay_Complete/Fonts/ClashDisplay-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'ClashDisplay';
+  src: url('fonts/ClashDisplay_Complete/Fonts/ClashDisplay-Semibold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'ClashDisplay';
+  src: url('fonts/ClashDisplay_Complete/Fonts/ClashDisplay-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'ClashDisplay';
+  src: url('fonts/ClashDisplay_Complete/Fonts/ClashDisplay-Variable.ttf') format('truetype');
+  font-weight: 100 900;
+  font-style: normal;
+}
+
+
+/* ============================================================
+   10. CLEAR SANS
+   ============================================================ */
+
+@font-face {
+  font-family: 'ClearSans';
+  src: url('fonts/clear_sans/ClearSans-Thin.ttf') format('truetype');
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'ClearSans';
+  src: url('fonts/clear_sans/ClearSans-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'ClearSans';
+  src: url('fonts/clear_sans/ClearSans-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'ClearSans';
+  src: url('fonts/clear_sans/ClearSans-Italic.ttf') format('truetype');
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'ClearSans';
+  src: url('fonts/clear_sans/ClearSans-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'ClearSans';
+  src: url('fonts/clear_sans/ClearSans-MediumItalic.ttf') format('truetype');
+  font-weight: 500;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'ClearSans';
+  src: url('fonts/clear_sans/ClearSans-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'ClearSans';
+  src: url('fonts/clear_sans/ClearSans-BoldItalic.ttf') format('truetype');
+  font-weight: 700;
+  font-style: italic;
+}
+
+
+/* ============================================================
+   11. CREATO DISPLAY
+   ============================================================ */
+
+@font-face {
+  font-family: 'CreatoDisplay';
+  src: url('fonts/creato_display/CreatoDisplay-Thin.otf') format('opentype');
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'CreatoDisplay';
+  src: url('fonts/creato_display/CreatoDisplay-ThinItalic.otf') format('opentype');
+  font-weight: 100;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'CreatoDisplay';
+  src: url('fonts/creato_display/CreatoDisplay-Light.otf') format('opentype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'CreatoDisplay';
+  src: url('fonts/creato_display/CreatoDisplay-LightItalic.otf') format('opentype');
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'CreatoDisplay';
+  src: url('fonts/creato_display/CreatoDisplay-Regular.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'CreatoDisplay';
+  src: url('fonts/creato_display/CreatoDisplay-RegularItalic.otf') format('opentype');
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'CreatoDisplay';
+  src: url('fonts/creato_display/CreatoDisplay-Medium.otf') format('opentype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'CreatoDisplay';
+  src: url('fonts/creato_display/CreatoDisplay-MediumItalic.otf') format('opentype');
+  font-weight: 500;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'CreatoDisplay';
+  src: url('fonts/creato_display/CreatoDisplay-Bold.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'CreatoDisplay';
+  src: url('fonts/creato_display/CreatoDisplay-BoldItalic.otf') format('opentype');
+  font-weight: 700;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'CreatoDisplay';
+  src: url('fonts/creato_display/CreatoDisplay-ExtraBold.otf') format('opentype');
+  font-weight: 800;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'CreatoDisplay';
+  src: url('fonts/creato_display/CreatoDisplay-ExtraBoldItalic.otf') format('opentype');
+  font-weight: 800;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'CreatoDisplay';
+  src: url('fonts/creato_display/CreatoDisplay-Black.otf') format('opentype');
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'CreatoDisplay';
+  src: url('fonts/creato_display/CreatoDisplay-BlackItalic.otf') format('opentype');
+  font-weight: 900;
+  font-style: italic;
+}
+
+
+/* ============================================================
+   12. DORTMUND
+   ============================================================ */
+
+@font-face {
+  font-family: 'Dortmund';
+  src: url('fonts/dortmund/Dortmund-ExtraBold.otf') format('opentype');
+  font-weight: 800;
+  font-style: normal;
+}
+
+
+/* ============================================================
+   13. EXCON
+   ============================================================ */
+
+@font-face {
+  font-family: 'Excon';
+  src: url('fonts/Excon_Complete/Fonts/Excon-Thin.ttf') format('truetype');
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Excon';
+  src: url('fonts/Excon_Complete/Fonts/Excon-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Excon';
+  src: url('fonts/Excon_Complete/Fonts/Excon-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Excon';
+  src: url('fonts/Excon_Complete/Fonts/Excon-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Excon';
+  src: url('fonts/Excon_Complete/Fonts/Excon-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Excon';
+  src: url('fonts/Excon_Complete/Fonts/Excon-Black.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Excon';
+  src: url('fonts/Excon_Complete/Fonts/Excon-Variable.ttf') format('truetype');
+  font-weight: 100 900;
+  font-style: normal;
+}
+
+
+/* ============================================================
+   14. FREESENTATION
+   ============================================================ */
+
+@font-face {
+  font-family: 'Freesentation';
+  src: url('fonts/freesentation/FreesentationVF.ttf') format('truetype');
+  font-weight: 100 900;
+  font-style: normal;
+}
+
+
+/* ============================================================
+   15. GABARITO
+   ============================================================ */
+
+@font-face {
+  font-family: 'Gabarito';
+  src: url('fonts/gabarito/Gabarito-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Gabarito';
+  src: url('fonts/gabarito/Gabarito-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Gabarito';
+  src: url('fonts/gabarito/Gabarito-SemiBold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Gabarito';
+  src: url('fonts/gabarito/Gabarito-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Gabarito';
+  src: url('fonts/gabarito/Gabarito-ExtraBold.ttf') format('truetype');
+  font-weight: 800;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Gabarito';
+  src: url('fonts/gabarito/Gabarito-Black.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+}
+
+
+/* ============================================================
+   16. GAMBARINO
+   ============================================================ */
+
+@font-face {
+  font-family: 'Gambarino';
+  src: url('fonts/Gambarino_Complete/Fonts/Gambarino-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}

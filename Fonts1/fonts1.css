@@ -1,0 +1,337 @@
+/* =============================================================================
+   FONT STACK – FULL @font-face declarations
+   Part 2/4 – Clarity City + Alan Sans + Changa + Clear Sans
+   Base path: ../fonts1/[Family]/
+   ============================================================================= */
+
+/* Clarity City */
+@font-face {
+    font-family: 'Clarity City';
+    src: url('../fonts1/clarity_city_next/ClarityCity-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Clarity City';
+    src: url('../fonts1/clarity_city_next/ClarityCity-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Clarity City';
+    src: url('../fonts1/clarity_city_next/ClarityCity-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Clarity City';
+    src: url('../fonts1/clarity_city_next/ClarityCity-ExtraLightItalic.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Clarity City';
+    src: url('../fonts1/clarity_city_next/ClarityCity-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Clarity City';
+    src: url('../fonts1/clarity_city_next/ClarityCity-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Clarity City';
+    src: url('../fonts1/clarity_city_next/ClarityCity-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Clarity City';
+    src: url('../fonts1/clarity_city_next/ClarityCity-RegularItalic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Clarity City';
+    src: url('../fonts1/clarity_city_next/ClarityCity-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Clarity City';
+    src: url('../fonts1/clarity_city_next/ClarityCity-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Clarity City';
+    src: url('../fonts1/clarity_city_next/ClarityCity-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Clarity City';
+    src: url('../fonts1/clarity_city_next/ClarityCity-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Clarity City';
+    src: url('../fonts1/clarity_city_next/ClarityCity-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Clarity City';
+    src: url('../fonts1/clarity_city_next/ClarityCity-BoldItalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Clarity City';
+    src: url('../fonts1/clarity_city_next/ClarityCity-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Clarity City';
+    src: url('../fonts1/clarity_city_next/ClarityCity-ExtraBoldItalic.ttf') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Clarity City';
+    src: url('../fonts1/clarity_city_next/ClarityCity-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Clarity City';
+    src: url('../fonts1/clarity_city_next/ClarityCity-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+/* Alan Sans */
+@font-face {
+    font-family: 'Alan Sans';
+    src: url('../fonts1/alan_sans/AlanSans-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Alan Sans';
+    src: url('../fonts1/alan_sans/AlanSans-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Alan Sans';
+    src: url('../fonts1/alan_sans/AlanSans-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Alan Sans';
+    src: url('../fonts1/alan_sans/AlanSans-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Alan Sans';
+    src: url('../fonts1/alan_sans/AlanSans-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Alan Sans';
+    src: url('../fonts1/alan_sans/AlanSans-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Alan Sans';
+    src: url('../fonts1/alan_sans/AlanSans-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Changa (Note: .otf files) */
+@font-face {
+    font-family: 'Changa';
+    src: url('../fonts1/changa/Changa-ThinCondensed.otf') format('opentype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Changa';
+    src: url('../fonts1/changa/Changa-LightCondensed.otf') format('opentype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Changa';
+    src: url('../fonts1/changa/Changa-RegularCondensed.otf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Changa';
+    src: url('../fonts1/changa/Changa-MediumCondensed.otf') format('opentype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Changa';
+    src: url('../fonts1/changa/Changa-SemiBoldCondensed.otf') format('opentype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Changa';
+    src: url('../fonts1/changa/Changa-BoldCondensed.otf') format('opentype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Changa';
+    src: url('../fonts1/changa/Changa-ExtraBoldCondensed.otf') format('opentype');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Changa';
+    src: url('../fonts1/changa/Changa-BlackCondensed.otf') format('opentype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Clear Sans */
+@font-face {
+    font-family: 'Clear Sans';
+    src: url('../fonts1/clear_sans/ClearSans-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Clear Sans';
+    src: url('../fonts1/clear_sans/ClearSans-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Clear Sans';
+    src: url('../fonts1/clear_sans/ClearSans-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Clear Sans';
+    src: url('../fonts1/clear_sans/ClearSans-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Clear Sans';
+    src: url('../fonts1/clear_sans/ClearSans-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Clear Sans';
+    src: url('../fonts1/clear_sans/ClearSans-Italic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Clear Sans';
+    src: url('../fonts1/clear_sans/ClearSans-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Clear Sans';
+    src: url('../fonts1/clear_sans/ClearSans-BoldItalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}

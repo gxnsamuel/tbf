@@ -1,0 +1,354 @@
+/* =============================================================================
+   FONT STACK – FULL @font-face declarations
+   Part 1/3 – General Sans + Geologica + Giphurs + Gmarket Sans
+   Base path: ../fonts1/[Family]/
+   ============================================================================= */
+
+/* General Sans */
+@font-face {
+    font-family: 'General Sans';
+    src: url('../fonts1/GeneralSans_Complete/Fonts/GeneralSans-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'General Sans';
+    src: url('../fonts1/GeneralSans_Complete/Fonts/GeneralSans-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'General Sans';
+    src: url('../fonts1/GeneralSans_Complete/Fonts/GeneralSans-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'General Sans';
+    src: url('../fonts1/GeneralSans_Complete/Fonts/GeneralSans-RegularItalic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'General Sans';
+    src: url('../fonts1/GeneralSans_Complete/Fonts/GeneralSans-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'General Sans';
+    src: url('../fonts1/GeneralSans_Complete/Fonts/GeneralSans-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'General Sans';
+    src: url('../fonts1/GeneralSans_Complete/Fonts/GeneralSans-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'General Sans';
+    src: url('../fonts1/GeneralSans_Complete/Fonts/GeneralSans-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'General Sans';
+    src: url('../fonts1/GeneralSans_Complete/Fonts/GeneralSans-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'General Sans';
+    src: url('../fonts1/GeneralSans_Complete/Fonts/GeneralSans-BoldItalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'General Sans';
+    src: url('../fonts1/GeneralSans_Complete/Fonts/GeneralSans-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'General Sans';
+    src: url('../fonts1/GeneralSans_Complete/Fonts/GeneralSans-ExtraLightItalic.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+/* Variable fonts for General Sans */
+@font-face {
+    font-family: 'General Sans';
+    src: url('../fonts1/GeneralSans_Complete/Fonts/GeneralSans-Variable.ttf') format('truetype');
+    font-weight: 200 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'General Sans';
+    src: url('../fonts1/GeneralSans_Complete/Fonts/GeneralSans-VariableItalic.ttf') format('truetype');
+    font-weight: 200 700;
+    font-style: italic;
+    font-display: swap;
+}
+
+/* Geologica */
+@font-face {
+    font-family: 'Geologica';
+    src: url('../fonts1/geologica/Geologica-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Geologica';
+    src: url('../fonts1/geologica/Geologica-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Geologica';
+    src: url('../fonts1/geologica/Geologica-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Geologica';
+    src: url('../fonts1/geologica/Geologica-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Geologica';
+    src: url('../fonts1/geologica/Geologica-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Geologica';
+    src: url('../fonts1/geologica/Geologica-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Geologica';
+    src: url('../fonts1/geologica/Geologica-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Geologica';
+    src: url('../fonts1/geologica/Geologica-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Geologica';
+    src: url('../fonts1/geologica/Geologica-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Geologica';
+    src: url('../fonts1/geologica/Geologica-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Geologica';
+    src: url('../fonts1/geologica/Geologica-Italic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Geologica';
+    src: url('../fonts1/geologica/Geologica-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Geologica';
+    src: url('../fonts1/geologica/Geologica-BoldItalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Geologica';
+    src: url('../fonts1/geologica/Geologica-ExtraBoldItalic.ttf') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Geologica';
+    src: url('../fonts1/geologica/Geologica-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+/* Giphurs */
+@font-face {
+    font-family: 'Giphurs';
+    src: url('../fonts1/giphurs/Giphurs-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Giphurs';
+    src: url('../fonts1/giphurs/Giphurs-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Giphurs';
+    src: url('../fonts1/giphurs/Giphurs-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Giphurs';
+    src: url('../fonts1/giphurs/Giphurs-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Giphurs';
+    src: url('../fonts1/giphurs/Giphurs-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Giphurs';
+    src: url('../fonts1/giphurs/Giphurs-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Giphurs';
+    src: url('../fonts1/giphurs/Giphurs-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Giphurs SC (Small Caps variant) */
+@font-face {
+    font-family: 'Giphurs SC';
+    src: url('../fonts1/giphurs/GiphursSC-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Giphurs SC';
+    src: url('../fonts1/giphurs/GiphursSC-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Giphurs SC';
+    src: url('../fonts1/giphurs/GiphursSC-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Giphurs SC';
+    src: url('../fonts1/giphurs/GiphursSC-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Giphurs SC';
+    src: url('../fonts1/giphurs/GiphursSC-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Giphurs SC';
+    src: url('../fonts1/giphurs/GiphursSC-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Giphurs SC';
+    src: url('../fonts1/giphurs/GiphursSC-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}

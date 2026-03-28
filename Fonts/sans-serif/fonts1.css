@@ -1,0 +1,199 @@
+/* =============================================================================
+   SANS-SERIF FONT STACK – FULL @font-face declarations
+   Part 1/5 – Cabin family (Normal + Condensed + SemiCondensed)
+   ============================================================================= */
+
+/* Cabin – Normal width */
+@font-face {
+    font-family: 'Cabin';
+    src: url('../fonts/sans-serif/Cabin/Cabin-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cabin';
+    src: url('../fonts/sans-serif/Cabin/Cabin-Italic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cabin';
+    src: url('../fonts/sans-serif/Cabin/Cabin-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cabin';
+    src: url('../fonts/sans-serif/Cabin/Cabin-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cabin';
+    src: url('../fonts/sans-serif/Cabin/Cabin-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cabin';
+    src: url('../fonts/sans-serif/Cabin/Cabin-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cabin';
+    src: url('../fonts/sans-serif/Cabin/Cabin-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cabin';
+    src: url('../fonts/sans-serif/Cabin/Cabin-BoldItalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+
+/* Cabin Condensed */
+@font-face {
+    font-family: 'Cabin Condensed';
+    src: url('../fonts/sans-serif/Cabin/Cabin_Condensed-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cabin Condensed';
+    src: url('../fonts/sans-serif/Cabin/Cabin_Condensed-Italic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cabin Condensed';
+    src: url('../fonts/sans-serif/Cabin/Cabin_Condensed-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cabin Condensed';
+    src: url('../fonts/sans-serif/Cabin/Cabin_Condensed-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cabin Condensed';
+    src: url('../fonts/sans-serif/Cabin/Cabin_Condensed-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cabin Condensed';
+    src: url('../fonts/sans-serif/Cabin/Cabin_Condensed-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cabin Condensed';
+    src: url('../fonts/sans-serif/Cabin/Cabin_Condensed-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cabin Condensed';
+    src: url('../fonts/sans-serif/Cabin/Cabin_Condensed-BoldItalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+
+/* Cabin SemiCondensed */
+@font-face {
+    font-family: 'Cabin SemiCondensed';
+    src: url('../fonts/sans-serif/Cabin/Cabin_SemiCondensed-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cabin SemiCondensed';
+    src: url('../fonts/sans-serif/Cabin/Cabin_SemiCondensed-Italic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cabin SemiCondensed';
+    src: url('../fonts/sans-serif/Cabin/Cabin_SemiCondensed-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cabin SemiCondensed';
+    src: url('../fonts/sans-serif/Cabin/Cabin_SemiCondensed-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cabin SemiCondensed';
+    src: url('../fonts/sans-serif/Cabin/Cabin_SemiCondensed-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cabin SemiCondensed';
+    src: url('../fonts/sans-serif/Cabin/Cabin_SemiCondensed-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cabin SemiCondensed';
+    src: url('../fonts/sans-serif/Cabin/Cabin_SemiCondensed-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cabin SemiCondensed';
+    src: url('../fonts/sans-serif/Cabin/Cabin_SemiCondensed-BoldItalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}

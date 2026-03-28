@@ -1,0 +1,394 @@
+/* =============================================================================
+   FONT STACK – FULL @font-face declarations
+   Part 2/3 – Pitagon Sans + Prodigy Sans + Radlush + REM + Rethink Sans
+   Base path: ../fonts1/[Family]/
+   ============================================================================= */
+
+/* Pitagon Sans */
+@font-face {
+    font-family: 'Pitagon Sans';
+    src: url('../fonts1/pitagon-sans-fonts/PitagonSans-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pitagon Sans';
+    src: url('../fonts1/pitagon-sans-fonts/PitagonSans-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pitagon Sans';
+    src: url('../fonts1/pitagon-sans-fonts/PitagonSans-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pitagon Sans';
+    src: url('../fonts1/pitagon-sans-fonts/PitagonSans-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pitagon Sans';
+    src: url('../fonts1/pitagon-sans-fonts/PitagonSans-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pitagon Sans';
+    src: url('../fonts1/pitagon-sans-fonts/PitagonSans-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Prodigy Sans (.otf files) */
+@font-face {
+    font-family: 'Prodigy Sans';
+    src: url('../fonts1/prodigy_sans/ProdigySans-Thin.otf') format('opentype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Prodigy Sans';
+    src: url('../fonts1/prodigy_sans/ProdigySans-Light.otf') format('opentype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Prodigy Sans';
+    src: url('../fonts1/prodigy_sans/ProdigySans-Regular.otf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Prodigy Sans';
+    src: url('../fonts1/prodigy_sans/ProdigySans-Medium.otf') format('opentype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Prodigy Sans';
+    src: url('../fonts1/prodigy_sans/ProdigySans-SemiBold.otf') format('opentype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Prodigy Sans';
+    src: url('../fonts1/prodigy_sans/ProdigySans-Bold.otf') format('opentype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Prodigy Sans';
+    src: url('../fonts1/prodigy_sans/ProdigySans-ExtraBold.otf') format('opentype');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Prodigy Sans';
+    src: url('../fonts1/prodigy_sans/ProdigySans-ThinItalic.otf') format('opentype');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Prodigy Sans';
+    src: url('../fonts1/prodigy_sans/ProdigySans-LightItalic.otf') format('opentype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Prodigy Sans';
+    src: url('../fonts1/prodigy_sans/ProdigySans-RegularItalic.otf') format('opentype');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Prodigy Sans';
+    src: url('../fonts1/prodigy_sans/ProdigySans-MediumItalic.otf') format('opentype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Prodigy Sans';
+    src: url('../fonts1/prodigy_sans/ProdigySans-SemiBoldItalic.otf') format('opentype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Prodigy Sans';
+    src: url('../fonts1/prodigy_sans/ProdigySans-BoldItalic.otf') format('opentype');
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Prodigy Sans';
+    src: url('../fonts1/prodigy_sans/ProdigySans-ExtraBoldItalic.otf') format('opentype');
+    font-weight: 800;
+    font-style: italic;
+    font-display: swap;
+}
+
+/* Radlush */
+@font-face {
+    font-family: 'Radlush';
+    src: url('../fonts1/radlush/Radlush-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Radlush';
+    src: url('../fonts1/radlush/Radlush-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Radlush';
+    src: url('../fonts1/radlush/Radlush-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Radlush';
+    src: url('../fonts1/radlush/Radlush-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Radlush';
+    src: url('../fonts1/radlush/Radlush-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Radlush';
+    src: url('../fonts1/radlush/Radlush-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* REM */
+@font-face {
+    font-family: 'REM';
+    src: url('../fonts1/rem/REM-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'REM';
+    src: url('../fonts1/rem/REM-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'REM';
+    src: url('../fonts1/rem/REM-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'REM';
+    src: url('../fonts1/rem/REM-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'REM';
+    src: url('../fonts1/rem/REM-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'REM';
+    src: url('../fonts1/rem/REM-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'REM';
+    src: url('../fonts1/rem/REM-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'REM';
+    src: url('../fonts1/rem/REM-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'REM';
+    src: url('../fonts1/rem/REM-Italic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'REM';
+    src: url('../fonts1/rem/REM-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'REM';
+    src: url('../fonts1/rem/REM-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'REM';
+    src: url('../fonts1/rem/REM-BoldItalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'REM';
+    src: url('../fonts1/rem/REM-ExtraBoldItalic.ttf') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'REM';
+    src: url('../fonts1/rem/REM-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+/* Rethink Sans */
+@font-face {
+    font-family: 'Rethink Sans';
+    src: url('../fonts1/rethink_sans/RethinkSans-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rethink Sans';
+    src: url('../fonts1/rethink_sans/RethinkSans-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rethink Sans';
+    src: url('../fonts1/rethink_sans/RethinkSans-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rethink Sans';
+    src: url('../fonts1/rethink_sans/RethinkSans-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rethink Sans';
+    src: url('../fonts1/rethink_sans/RethinkSans-Italic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rethink Sans';
+    src: url('../fonts1/rethink_sans/RethinkSans-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rethink Sans';
+    src: url('../fonts1/rethink_sans/RethinkSans-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rethink Sans';
+    src: url('../fonts1/rethink_sans/RethinkSans-BoldItalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}

@@ -1,0 +1,313 @@
+/* =============================================================================
+   SERIF FONT STACK – FULL @font-face declarations
+   Part 1/4 – IBM Plex Serif + Josefin Slab + Libre Baskerville
+   ============================================================================= */
+
+/* IBM Plex Serif */
+@font-face {
+    font-family: 'IBM Plex Serif';
+    src: url('../fonts/serif/IBM_Plex_Serif/IBMPlexSerif-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'IBM Plex Serif';
+    src: url('../fonts/serif/IBM_Plex_Serif/IBMPlexSerif-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'IBM Plex Serif';
+    src: url('../fonts/serif/IBM_Plex_Serif/IBMPlexSerif-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'IBM Plex Serif';
+    src: url('../fonts/serif/IBM_Plex_Serif/IBMPlexSerif-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'IBM Plex Serif';
+    src: url('../fonts/serif/IBM_Plex_Serif/IBMPlexSerif-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'IBM Plex Serif';
+    src: url('../fonts/serif/IBM_Plex_Serif/IBMPlexSerif-Italic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'IBM Plex Serif';
+    src: url('../fonts/serif/IBM_Plex_Serif/IBMPlexSerif-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'IBM Plex Serif';
+    src: url('../fonts/serif/IBM_Plex_Serif/IBMPlexSerif-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'IBM Plex Serif';
+    src: url('../fonts/serif/IBM_Plex_Serif/IBMPlexSerif-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'IBM Plex Serif';
+    src: url('../fonts/serif/IBM_Plex_Serif/IBMPlexSerif-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'IBM Plex Serif';
+    src: url('../fonts/serif/IBM_Plex_Serif/IBMPlexSerif-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'IBM Plex Serif';
+    src: url('../fonts/serif/IBM_Plex_Serif/IBMPlexSerif-BoldItalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'IBM Plex Serif';
+    src: url('../fonts/serif/IBM_Plex_Serif/IBMPlexSerif-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'IBM Plex Serif';
+    src: url('../fonts/serif/IBM_Plex_Serif/IBMPlexSerif-ExtraLightItalic.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+/* Josefin Slab */
+@font-face {
+    font-family: 'Josefin Slab';
+    src: url('../fonts/serif/Josefin_Slab/JosefinSlab-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Josefin Slab';
+    src: url('../fonts/serif/Josefin_Slab/JosefinSlab-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Josefin Slab';
+    src: url('../fonts/serif/Josefin_Slab/JosefinSlab-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Josefin Slab';
+    src: url('../fonts/serif/Josefin_Slab/JosefinSlab-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Josefin Slab';
+    src: url('../fonts/serif/Josefin_Slab/JosefinSlab-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Josefin Slab';
+    src: url('../fonts/serif/Josefin_Slab/JosefinSlab-Italic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Josefin Slab';
+    src: url('../fonts/serif/Josefin_Slab/JosefinSlab-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Josefin Slab';
+    src: url('../fonts/serif/Josefin_Slab/JosefinSlab-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Josefin Slab';
+    src: url('../fonts/serif/Josefin_Slab/JosefinSlab-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Josefin Slab';
+    src: url('../fonts/serif/Josefin_Slab/JosefinSlab-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Josefin Slab';
+    src: url('../fonts/serif/Josefin_Slab/JosefinSlab-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Josefin Slab';
+    src: url('../fonts/serif/Josefin_Slab/JosefinSlab-BoldItalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Josefin Slab';
+    src: url('../fonts/serif/Josefin_Slab/JosefinSlab-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Josefin Slab';
+    src: url('../fonts/serif/Josefin_Slab/JosefinSlab-ExtraLightItalic.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+/* Variable fonts for Josefin Slab */
+@font-face {
+    font-family: 'Josefin Slab';
+    src: url('../fonts/serif/Josefin_Slab/JosefinSlab-VariableFont_wght.ttf') format('truetype');
+    font-weight: 100 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Josefin Slab';
+    src: url('../fonts/serif/Josefin_Slab/JosefinSlab-Italic-VariableFont_wght.ttf') format('truetype');
+    font-weight: 100 700;
+    font-style: italic;
+    font-display: swap;
+}
+
+/* Libre Baskerville */
+@font-face {
+    font-family: 'Libre Baskerville';
+    src: url('../fonts/serif/Libre_Baskerville/LibreBaskerville-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Libre Baskerville';
+    src: url('../fonts/serif/Libre_Baskerville/LibreBaskerville-Italic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Libre Baskerville';
+    src: url('../fonts/serif/Libre_Baskerville/LibreBaskerville-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Libre Baskerville';
+    src: url('../fonts/serif/Libre_Baskerville/LibreBaskerville-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Libre Baskerville';
+    src: url('../fonts/serif/Libre_Baskerville/LibreBaskerville-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Libre Baskerville';
+    src: url('../fonts/serif/Libre_Baskerville/LibreBaskerville-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Libre Baskerville';
+    src: url('../fonts/serif/Libre_Baskerville/LibreBaskerville-BoldItalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+
+/* Variable font for Libre Baskerville */
+@font-face {
+    font-family: 'Libre Baskerville';
+    src: url('../fonts/serif/Libre_Baskerville/LibreBaskerville-VariableFont_wght.ttf') format('truetype');
+    font-weight: 400 700;
+    font-style: normal;
+    font-display: swap;
+}
