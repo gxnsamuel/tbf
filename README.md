@@ -23,9 +23,11 @@ tbf/
 │   ├── serif/              # 29 serif families (Lora, Merriweather, Playfair Display...)
 │   └── *.css                # per-category @font-face stylesheets
 │
-├── Fonts1/                 # 52 additional standalone/independent font families
-│                            #  (Satoshi, Switzer, General Sans, Geist, Clash Display, etc.)
-│                            #  each usually in its own folder with Fonts/ + License/
+├── Fonts1/                 # "General Fonts" — 52 additional standalone/independent families
+│   │                        #  (Satoshi, Switzer, General Sans, Geist, Clash Display, etc.)
+│   │                        #  each usually in its own folder with Fonts/ + License/
+│   ├── tbf_general_fonts.css   # ⭐ single consolidated stylesheet — all 59 families, one @import
+│   └── tbf_other_fonts*.css    # legacy split (1–11) — same declarations, kept for compatibility
 │
 └── tbf_fonts.css           # top-level aggregate stylesheet
 ```
@@ -36,12 +38,39 @@ tbf/
 - Fonts organized into 7 broad style categories under `Fonts/`: calligraphy,
   default-fonts, display, handwriting (casual & natural), monospace,
   sans-serif, and serif
-- A second collection, `Fonts1/`, with 50+ independently distributed families
-  (many are "free-for-commercial-use" variable/display fonts distributed with
-  their own `License/` folder — e.g. Satoshi, Switzer, Clash Display, General
-  Sans, Geist, Zodiak)
+- A second collection, `Fonts1/` — the **General Fonts** set — with 59
+  independently distributed families (many are "free-for-commercial-use"
+  variable/display fonts distributed with their own `License/` folder — e.g.
+  Satoshi, Switzer, Clash Display, General Sans, Geist, Zodiak)
 - Pre-built CSS files (`tbf_*_fonts*.css`) per category, ready to `@import` or
   `<link>` into a web page/template builder for instant web-font support
+
+### 🆕 General Fonts (`Fonts1/`)
+
+All 59 standalone families in `Fonts1/` are now available through a single,
+consolidated stylesheet — `Fonts1/tbf_general_fonts.css` — instead of having
+to `@import` 11 separate split files:
+
+```html
+<link rel="stylesheet" href="Fonts1/tbf_general_fonts.css">
+```
+
+The families included:
+
+Alan Sans · Alpino · Amulya · Author · Cabinet Grotesk · Changa · Chillax ·
+Clarity City · Clash Display · Clear Sans · Creato Display · Dortmund ·
+Excon · Freesentation · Gabarito · Gambarino · Gambetta · Geist · Geist Mono ·
+Geist Pixel · General Sans · Geologica · Giphurs · Giphurs SC · Gmarket Sans ·
+Gully (+ CD/ECD/SCD) · Hitch Grotesk · Instrument Sans (+ Condensed) ·
+JHC Sines · Kreadon · Kumbh Sans · LT Karaoke Body · Mango Grotesque ·
+Nacelle · Oak Sans · Pitagon Sans · Prodigy Sans · REM · Radlush ·
+Rethink Sans · Rosaline · Satoshi · Science Gothic · Sentient · Spline Sans ·
+Stardom · Supreme · Switzer · Synonym · Tilda Sans · Tonnelier · Unageo ·
+Vercetti · Work Sans · Zodiak
+
+The original `tbf_other_fonts1.css` through `tbf_other_fonts11.css` files are
+left in place for backward compatibility, but new projects should prefer the
+single `tbf_general_fonts.css` file.
 - Most families include their license (`OFL.txt`, `LICENSE.txt`, or `FFL.txt`)
   alongside the font files
 
