@@ -1,0 +1,260 @@
+/* =============================================================================
+   FONT STACK – FULL @font-face declarations
+   Part 2/2 – Gambarino + Gambetta + Geist + Closing Summary
+   Base path: [Family]/
+   ============================================================================= */
+
+/* Gambarino */
+@font-face {
+    font-family: 'Gambarino';
+    src: url('Gambarino_Complete/Fonts/Gambarino-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Gambetta */
+@font-face {
+    font-family: 'Gambetta';
+    src: url('Gambetta_Complete/Fonts/Gambetta-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gambetta';
+    src: url('Gambetta_Complete/Fonts/Gambetta-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gambetta';
+    src: url('Gambetta_Complete/Fonts/Gambetta-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gambetta';
+    src: url('Gambetta_Complete/Fonts/Gambetta-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gambetta';
+    src: url('Gambetta_Complete/Fonts/Gambetta-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gambetta';
+    src: url('Gambetta_Complete/Fonts/Gambetta-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gambetta';
+    src: url('Gambetta_Complete/Fonts/Gambetta-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gambetta';
+    src: url('Gambetta_Complete/Fonts/Gambetta-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gambetta';
+    src: url('Gambetta_Complete/Fonts/Gambetta-BoldItalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+
+/* Variable fonts for Gambetta */
+@font-face {
+    font-family: 'Gambetta';
+    src: url('Gambetta_Complete/Fonts/Gambetta-Variable.ttf') format('truetype');
+    font-weight: 300 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gambetta';
+    src: url('Gambetta_Complete/Fonts/Gambetta-VariableItalic.ttf') format('truetype');
+    font-weight: 300 700;
+    font-style: italic;
+    font-display: swap;
+}
+
+/* Geist (treated as single family – Regular + Mono + Pixel variants) */
+@font-face {
+    font-family: 'Geist';
+    src: url('geist-font-1.8.0/fonts/Geist/Geist-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Geist';
+    src: url('geist-font-1.8.0/fonts/Geist/Geist-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Geist';
+    src: url('geist-font-1.8.0/fonts/Geist/Geist-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Geist';
+    src: url('geist-font-1.8.0/fonts/Geist/Geist-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Geist';
+    src: url('geist-font-1.8.0/fonts/Geist/Geist-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Geist';
+    src: url('geist-font-1.8.0/fonts/Geist/Geist-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Geist';
+    src: url('geist-font-1.8.0/fonts/Geist/Geist-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Geist Mono */
+@font-face {
+    font-family: 'Geist Mono';
+    src: url('geist-font-1.8.0/fonts/GeistMono/GeistMono-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Geist Mono';
+    src: url('geist-font-1.8.0/fonts/GeistMono/GeistMono-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Geist Mono';
+    src: url('geist-font-1.8.0/fonts/GeistMono/GeistMono-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Geist Mono';
+    src: url('geist-font-1.8.0/fonts/GeistMono/GeistMono-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Geist Mono';
+    src: url('geist-font-1.8.0/fonts/GeistMono/GeistMono-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Geist Mono';
+    src: url('geist-font-1.8.0/fonts/GeistMono/GeistMono-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Geist Mono';
+    src: url('geist-font-1.8.0/fonts/GeistMono/GeistMono-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Geist Pixel */
+@font-face {
+    font-family: 'Geist Pixel';
+    src: url('geist-font-1.8.0/fonts/GeistPixel/GeistPixel-Circle.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Geist Pixel';
+    src: url('geist-font-1.8.0/fonts/GeistPixel/GeistPixel-Grid.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Geist Pixel';
+    src: url('geist-font-1.8.0/fonts/GeistPixel/GeistPixel-Line.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Geist Pixel';
+    src: url('geist-font-1.8.0/fonts/GeistPixel/GeistPixel-Square.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Geist Pixel';
+    src: url('geist-font-1.8.0/fonts/GeistPixel/GeistPixel-Triangle.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+

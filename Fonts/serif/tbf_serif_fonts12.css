@@ -1,0 +1,273 @@
+/* =============================================================================
+   SERIF FONT STACK – FULL @font-face declarations
+   Part 2/2 – Source Serif 4 (remaining sizes) + Vollkorn + Zilla Slab
+   ============================================================================= */
+
+/* Source Serif 4 – 36pt (remaining) */
+@font-face {
+    font-family: 'Source Serif 4';
+    src: url('Source_Serif_4/SourceSerif4_36pt-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Source Serif 4';
+    src: url('Source_Serif_4/SourceSerif4_36pt-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Source Serif 4';
+    src: url('Source_Serif_4/SourceSerif4_36pt-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Source Serif 4';
+    src: url('Source_Serif_4/SourceSerif4_36pt-ExtraBoldItalic.ttf') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+    font-display: swap;
+}
+
+/* Source Serif 4 – 48pt (remaining) */
+@font-face {
+    font-family: 'Source Serif 4';
+    src: url('Source_Serif_4/SourceSerif4_48pt-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Source Serif 4';
+    src: url('Source_Serif_4/SourceSerif4_48pt-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+/* Variable font for Source Serif 4 (already partially covered, full version) */
+@font-face {
+    font-family: 'Source Serif 4';
+    src: url('Source_Serif_4/SourceSerif4-VariableFont_opsz,wght.ttf') format('truetype');
+    font-weight: 200 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Vollkorn */
+@font-face {
+    font-family: 'Vollkorn';
+    src: url('Vollkorn/Vollkorn-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Vollkorn';
+    src: url('Vollkorn/Vollkorn-Italic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Vollkorn';
+    src: url('Vollkorn/Vollkorn-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Vollkorn';
+    src: url('Vollkorn/Vollkorn-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Vollkorn';
+    src: url('Vollkorn/Vollkorn-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Vollkorn';
+    src: url('Vollkorn/Vollkorn-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Vollkorn';
+    src: url('Vollkorn/Vollkorn-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Vollkorn';
+    src: url('Vollkorn/Vollkorn-BoldItalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Vollkorn';
+    src: url('Vollkorn/Vollkorn-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Vollkorn';
+    src: url('Vollkorn/Vollkorn-ExtraBoldItalic.ttf') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Vollkorn';
+    src: url('Vollkorn/Vollkorn-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Vollkorn';
+    src: url('Vollkorn/Vollkorn-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+/* Variable fonts for Vollkorn */
+@font-face {
+    font-family: 'Vollkorn';
+    src: url('Vollkorn/Vollkorn-VariableFont_wght.ttf') format('truetype');
+    font-weight: 400 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Vollkorn';
+    src: url('Vollkorn/Vollkorn-Italic-VariableFont_wght.ttf') format('truetype');
+    font-weight: 400 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+/* Zilla Slab */
+@font-face {
+    font-family: 'Zilla Slab';
+    src: url('Zilla_Slab/ZillaSlab-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Zilla Slab';
+    src: url('Zilla_Slab/ZillaSlab-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Zilla Slab';
+    src: url('Zilla_Slab/ZillaSlab-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Zilla Slab';
+    src: url('Zilla_Slab/ZillaSlab-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Zilla Slab';
+    src: url('Zilla_Slab/ZillaSlab-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Zilla Slab';
+    src: url('Zilla_Slab/ZillaSlab-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Zilla Slab';
+    src: url('Zilla_Slab/ZillaSlab-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Zilla Slab';
+    src: url('Zilla_Slab/ZillaSlab-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Zilla Slab';
+    src: url('Zilla_Slab/ZillaSlab-BoldItalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+
+/* =============================================================================
+   END OF THIS SERIF BATCH (Part 2/2)
+
+   All fonts from your latest screenshots are now fully covered:
+
+   • Source Serif 4 (18pt, 36pt, 48pt optical sizes – full weights + italics + variable)
+   • Spectral (full family)
+   • Vollkorn (full family + variable)
+   • Zilla Slab (full family)
+
+   This batch is now complete in exactly 2 parts as requested.
+
+   You now have an even larger serif collection.
+
+   What would you like to do next?
+   - Start a new batch (send more screenshots)
+   - Get one single combined CSS file with **ALL** fonts we've built so far (all sans-serif + all serif batches)
+   - Adjust family names or add usage examples
+   - Move to slab-serif, display, or another category
+
+   Just say the word — I'm ready! 😊
+   ============================================================================= */

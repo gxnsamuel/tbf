@@ -1,0 +1,87 @@
+/* =============================================================================
+   SERIF FONT STACK – FULL @font-face declarations
+   Part 4/4 – Gentium + Closing Summary
+   ============================================================================= */
+
+/* Gentium */
+@font-face {
+    font-family: 'Gentium';
+    src: url('Gentium_7.000/Gentium-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gentium';
+    src: url('Gentium_7.000/Gentium-Italic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gentium';
+    src: url('Gentium_7.000/Gentium-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gentium';
+    src: url('Gentium_7.000/Gentium-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gentium';
+    src: url('Gentium_7.000/Gentium-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gentium';
+    src: url('Gentium_7.000/Gentium-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gentium';
+    src: url('Gentium_7.000/Gentium-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gentium';
+    src: url('Gentium_7.000/Gentium-BoldItalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gentium';
+    src: url('Gentium_7.000/Gentium-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gentium';
+    src: url('Gentium_7.000/Gentium-ExtraBoldItalic.ttf') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+    font-display: swap;
+}
+
+/* =============================================================================

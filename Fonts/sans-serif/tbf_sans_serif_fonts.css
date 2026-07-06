@@ -1,0 +1,1051 @@
+/* =============================================================================
+   SANS-SERIF FONT STACK – COMPLETE @font-face declarations
+   From your Documents\projects\Fonts\sans-serif folder
+   Paths: [Family]/[filename]
+   Every file is explicitly declared — no abbreviations
+   ============================================================================= */
+
+/* ────────────────────────────────────────────────
+   Alegreya Sans – Full family
+   ──────────────────────────────────────────────── */
+@font-face {
+    font-family: 'Alegreya Sans';
+    src: url('AlegreyaSans/AlegreyaSans-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Alegreya Sans';
+    src: url('AlegreyaSans/AlegreyaSans-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Alegreya Sans';
+    src: url('AlegreyaSans/AlegreyaSans-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Alegreya Sans';
+    src: url('AlegreyaSans/AlegreyaSans-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Alegreya Sans';
+    src: url('AlegreyaSans/AlegreyaSans-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Alegreya Sans';
+    src: url('AlegreyaSans/AlegreyaSans-Italic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Alegreya Sans';
+    src: url('AlegreyaSans/AlegreyaSans-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Alegreya Sans';
+    src: url('AlegreyaSans/AlegreyaSans-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Alegreya Sans';
+    src: url('AlegreyaSans/AlegreyaSans-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Alegreya Sans';
+    src: url('AlegreyaSans/AlegreyaSans-BoldItalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Alegreya Sans';
+    src: url('AlegreyaSans/AlegreyaSans-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Alegreya Sans';
+    src: url('AlegreyaSans/AlegreyaSans-ExtraBoldItalic.ttf') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Alegreya Sans';
+    src: url('AlegreyaSans/AlegreyaSans-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Alegreya Sans';
+    src: url('AlegreyaSans/AlegreyaSans-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+/* ────────────────────────────────────────────────
+   Arimo
+   ──────────────────────────────────────────────── */
+@font-face {
+    font-family: 'Arimo';
+    src: url('Arimo/Arimo-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Arimo';
+    src: url('Arimo/Arimo-Italic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Arimo';
+    src: url('Arimo/Arimo-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Arimo';
+    src: url('Arimo/Arimo-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Arimo';
+    src: url('Arimo/Arimo-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Arimo';
+    src: url('Arimo/Arimo-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Arimo';
+    src: url('Arimo/Arimo-BoldItalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Arimo';
+    src: url('Arimo/Arimo-VariableFont_wght.ttf') format('truetype');
+    font-weight: 400 700;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Arimo';
+    src: url('Arimo/Arimo-Italic-VariableFont_wght.ttf') format('truetype');
+    font-weight: 400 700;
+    font-style: italic;
+    font-display: swap;
+}
+
+/* ────────────────────────────────────────────────
+   Asap – Normal (default width)
+   ──────────────────────────────────────────────── */
+@font-face {
+    font-family: 'Asap';
+    src: url('Asap/Asap-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Asap';
+    src: url('Asap/Asap-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Asap';
+    src: url('Asap/Asap-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Asap';
+    src: url('Asap/Asap-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Asap';
+    src: url('Asap/Asap-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Asap';
+    src: url('Asap/Asap-Italic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Asap';
+    src: url('Asap/Asap-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Asap';
+    src: url('Asap/Asap-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Asap';
+    src: url('Asap/Asap-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Asap';
+    src: url('Asap/Asap-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Asap';
+    src: url('Asap/Asap-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Asap';
+    src: url('Asap/Asap-BoldItalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Asap';
+    src: url('Asap/Asap-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Asap';
+    src: url('Asap/Asap-ExtraBoldItalic.ttf') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Asap';
+    src: url('Asap/Asap-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Asap';
+    src: url('Asap/Asap-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+/* Asap Condensed */
+@font-face {
+    font-family: 'Asap Condensed';
+    src: url('Asap/Asap_Condensed-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Asap Condensed';
+    src: url('Asap/Asap_Condensed-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Asap Condensed';
+    src: url('Asap/Asap_Condensed-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Asap Condensed';
+    src: url('Asap/Asap_Condensed-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Asap Condensed';
+    src: url('Asap/Asap_Condensed-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Asap Condensed';
+    src: url('Asap/Asap_Condensed-Italic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Asap Condensed';
+    src: url('Asap/Asap_Condensed-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Asap Condensed';
+    src: url('Asap/Asap_Condensed-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Asap Condensed';
+    src: url('Asap/Asap_Condensed-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Asap Condensed';
+    src: url('Asap/Asap_Condensed-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Asap Condensed';
+    src: url('Asap/Asap_Condensed-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Asap Condensed';
+    src: url('Asap/Asap_Condensed-BoldItalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Asap Condensed';
+    src: url('Asap/Asap_Condensed-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Asap Condensed';
+    src: url('Asap/Asap_Condensed-ExtraBoldItalic.ttf') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Asap Condensed';
+    src: url('Asap/Asap_Condensed-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Asap Condensed';
+    src: url('Asap/Asap_Condensed-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+/* Asap SemiCondensed */
+@font-face {
+    font-family: 'Asap SemiCondensed';
+    src: url('Asap/Asap_SemiCondensed-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Asap SemiCondensed';
+    src: url('Asap/Asap_SemiCondensed-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Asap SemiCondensed';
+    src: url('Asap/Asap_SemiCondensed-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Asap SemiCondensed';
+    src: url('Asap/Asap_SemiCondensed-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Asap SemiCondensed';
+    src: url('Asap/Asap_SemiCondensed-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Asap SemiCondensed';
+    src: url('Asap/Asap_SemiCondensed-Italic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Asap SemiCondensed';
+    src: url('Asap/Asap_SemiCondensed-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Asap SemiCondensed';
+    src: url('Asap/Asap_SemiCondensed-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Asap SemiCondensed';
+    src: url('Asap/Asap_SemiCondensed-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Asap SemiCondensed';
+    src: url('Asap/Asap_SemiCondensed-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Asap SemiCondensed';
+    src: url('Asap/Asap_SemiCondensed-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Asap SemiCondensed';
+    src: url('Asap/Asap_SemiCondensed-BoldItalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Asap SemiCondensed';
+    src: url('Asap/Asap_SemiCondensed-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Asap SemiCondensed';
+    src: url('Asap/Asap_SemiCondensed-ExtraBoldItalic.ttf') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Asap SemiCondensed';
+    src: url('Asap/Asap_SemiCondensed-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Asap SemiCondensed';
+    src: url('Asap/Asap_SemiCondensed-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+/* Asap SemiExpanded */
+@font-face {
+    font-family: 'Asap SemiExpanded';
+    src: url('Asap/Asap_SemiExpanded-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Asap SemiExpanded';
+    src: url('Asap/Asap_SemiExpanded-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Asap SemiExpanded';
+    src: url('Asap/Asap_SemiExpanded-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Asap SemiExpanded';
+    src: url('Asap/Asap_SemiExpanded-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Asap SemiExpanded';
+    src: url('Asap/Asap_SemiExpanded-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Asap SemiExpanded';
+    src: url('Asap/Asap_SemiExpanded-Italic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Asap SemiExpanded';
+    src: url('Asap/Asap_SemiExpanded-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Asap SemiExpanded';
+    src: url('Asap/Asap_SemiExpanded-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Asap SemiExpanded';
+    src: url('Asap/Asap_SemiExpanded-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Asap SemiExpanded';
+    src: url('Asap/Asap_SemiExpanded-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Asap SemiExpanded';
+    src: url('Asap/Asap_SemiExpanded-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Asap SemiExpanded';
+    src: url('Asap/Asap_SemiExpanded-BoldItalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Asap SemiExpanded';
+    src: url('Asap/Asap_SemiExpanded-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Asap SemiExpanded';
+    src: url('Asap/Asap_SemiExpanded-ExtraBoldItalic.ttf') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Asap SemiExpanded';
+    src: url('Asap/Asap_SemiExpanded-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Asap SemiExpanded';
+    src: url('Asap/Asap_SemiExpanded-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+/* Asap Expanded */
+@font-face {
+    font-family: 'Asap Expanded';
+    src: url('Asap/Asap_Expanded-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Asap Expanded';
+    src: url('Asap/Asap_Expanded-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Asap Expanded';
+    src: url('Asap/Asap_Expanded-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Asap Expanded';
+    src: url('Asap/Asap_Expanded-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Asap Expanded';
+    src: url('Asap/Asap_Expanded-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Asap Expanded';
+    src: url('Asap/Asap_Expanded-Italic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Asap Expanded';
+    src: url('Asap/Asap_Expanded-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Asap Expanded';
+    src: url('Asap/Asap_Expanded-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Asap Expanded';
+    src: url('Asap/Asap_Expanded-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Asap Expanded';
+    src: url('Asap/Asap_Expanded-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Asap Expanded';
+    src: url('Asap/Asap_Expanded-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Asap Expanded';
+    src: url('Asap/Asap_Expanded-BoldItalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Asap Expanded';
+    src: url('Asap/Asap_Expanded-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Asap Expanded';
+    src: url('Asap/Asap_Expanded-ExtraBoldItalic.ttf') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Asap Expanded';
+    src: url('Asap/Asap_Expanded-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Asap Expanded';
+    src: url('Asap/Asap_Expanded-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+/* Asap Variable fonts (covers wdth + wght) */
+@font-face {
+    font-family: 'Asap';
+    src: url('Asap/Asap-VariableFont_wdth,wght.ttf') format('truetype');
+    font-weight: 100 900;
+    font-stretch: 75% 125%;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Asap';
+    src: url('Asap/Asap-Italic-VariableFont_wdth,wght.ttf') format('truetype');
+    font-weight: 100 900;
+    font-style: italic;
+    font-stretch: 75% 125%;
+    font-display: swap;
+}
+
+/* ────────────────────────────────────────────────
+   Assistant
+   ──────────────────────────────────────────────── */
+@font-face {
+    font-family: 'Assistant';
+    src: url('Assistant/Assistant-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Assistant';
+    src: url('Assistant/Assistant-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Assistant';
+    src: url('Assistant/Assistant-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Assistant';
+    src: url('Assistant/Assistant-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Assistant';
+    src: url('Assistant/Assistant-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Assistant';
+    src: url('Assistant/Assistant-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Assistant';
+    src: url('Assistant/Assistant-VariableFont_wght.ttf') format('truetype');
+    font-weight: 200 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* ────────────────────────────────────────────────
+   Barlow – Full family
+   ──────────────────────────────────────────────── */
+@font-face {
+    font-family: 'Barlow';
+    src: url('Barlow/Barlow-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Barlow';
+    src: url('Barlow/Barlow-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Barlow';
+    src: url('Barlow/Barlow-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Barlow';
+    src: url('Barlow/Barlow-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Barlow';
+    src: url('Barlow/Barlow-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Barlow';
+    src: url('Barlow/Barlow-Italic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Barlow';
+    src: url('Barlow/Barlow-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Barlow';
+    src: url('Barlow/Barlow-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Barlow';
+    src: url('Barlow/Barlow-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Barlow';
+    src: url('Barlow/Barlow-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Barlow';
+    src: url('Barlow/Barlow-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Barlow';
+    src: url('Barlow/Barlow-BoldItalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Barlow';
+    src: url('Barlow/Barlow-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Barlow';
+    src: url('Barlow/Barlow-ExtraBoldItalic.ttf') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Barlow';
+    src: url('Barlow/Barlow-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Barlow';
+    src: url('Barlow/Barlow-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+/* ────────────────────────────────────────────────
+   Be Vietnam Pro – Full family
+   ──────────────────────────────────────────────── */
+@font-face {
+    font-family: 'Be Vietnam Pro';
+    src: url('BeVietnamPro/BeVietnamPro-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Be Vietnam Pro';
+    src: url('BeVietnamPro/BeVietnamPro-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Be Vietnam Pro';
+    src: url('BeVietnamPro/BeVietnamPro-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Be Vietnam Pro';
+    src: url('BeVietnamPro/BeVietnamPro-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Be Vietnam Pro';
+    src: url('BeVietnamPro/BeVietnamPro-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Be Vietnam Pro';
+    src: url('BeVietnamPro/BeVietnamPro-Italic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Be Vietnam Pro';
+    src: url('BeVietnamPro/BeVietnamPro-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Be Vietnam Pro';
+    src: url('BeVietnamPro/BeVietnamPro-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Be Vietnam Pro';
+    src: url('BeVietnamPro/BeVietnamPro-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Be Vietnam Pro';
+    src: url('BeVietnamPro/BeVietnamPro-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Be Vietnam Pro';
+    src: url('BeVietnamPro/BeVietnamPro-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Be Vietnam Pro';
+    src: url('BeVietnamPro/BeVietnamPro-BoldItalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Be Vietnam Pro';
+    src: url('BeVietnamPro/BeVietnamPro-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Be Vietnam Pro';
+    src: url('BeVietnamPro/BeVietnamPro-ExtraBoldItalic.ttf') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Be Vietnam Pro';
+    src: url('BeVietnamPro/BeVietnamPro-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Be Vietnam Pro';
+    src: url('BeVietnamPro/BeVietnamPro-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+/* End of complete sans-serif @font-face block */

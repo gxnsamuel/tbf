@@ -1,0 +1,325 @@
+/* =============================================================================
+   FONT STACK – FULL @font-face declarations
+   Part 2/3 – Gmarket Sans + Gully + Hitch Grotesk + Instrument Sans
+   Base path: [Family]/
+   ============================================================================= */
+
+/* Gmarket Sans (.otf files) */
+@font-face {
+    font-family: 'Gmarket Sans';
+    src: url('gmarket_sans/GmarketSansLight.otf') format('opentype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gmarket Sans';
+    src: url('gmarket_sans/GmarketSansMedium.otf') format('opentype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gmarket Sans';
+    src: url('gmarket_sans/GmarketSansBold.otf') format('opentype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Gully */
+@font-face {
+    font-family: 'Gully';
+    src: url('gully/Gully-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gully';
+    src: url('gully/Gully-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gully';
+    src: url('gully/Gully-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gully';
+    src: url('gully/Gully-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gully';
+    src: url('gully/Gully-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Condensed / CD variants */
+@font-face {
+    font-family: 'Gully CD';
+    src: url('gully/Gully-CDRegular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gully CD';
+    src: url('gully/Gully-CDMedium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gully CD';
+    src: url('gully/Gully-CDSemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gully CD';
+    src: url('gully/Gully-CDBold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* ECD variants */
+@font-face {
+    font-family: 'Gully ECD';
+    src: url('gully/Gully-ECDRegular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gully ECD';
+    src: url('gully/Gully-ECDMedium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gully ECD';
+    src: url('gully/Gully-ECDSemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gully ECD';
+    src: url('gully/Gully-ECDBold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gully ECD';
+    src: url('gully/Gully-ECDLight.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* SCD variants */
+@font-face {
+    font-family: 'Gully SCD';
+    src: url('gully/Gully-SCDRegular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gully SCD';
+    src: url('gully/Gully-SCDMedium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gully SCD';
+    src: url('gully/Gully-SCDSemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gully SCD';
+    src: url('gully/Gully-SCDBold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gully SCD';
+    src: url('gully/Gully-SCDLight.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Hitch Grotesk (variable font) */
+@font-face {
+    font-family: 'Hitch Grotesk';
+    src: url('hitch_grotesk/hitch-grotesk-VF.ttf') format('truetype');
+    font-weight: 100 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Instrument Sans */
+@font-face {
+    font-family: 'Instrument Sans';
+    src: url('instrument_sans/InstrumentSans-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Instrument Sans';
+    src: url('instrument_sans/InstrumentSans-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Instrument Sans';
+    src: url('instrument_sans/InstrumentSans-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Instrument Sans';
+    src: url('instrument_sans/InstrumentSans-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Instrument Sans';
+    src: url('instrument_sans/InstrumentSans-Italic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Instrument Sans';
+    src: url('instrument_sans/InstrumentSans-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Instrument Sans';
+    src: url('instrument_sans/InstrumentSans-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Instrument Sans';
+    src: url('instrument_sans/InstrumentSans-BoldItalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+
+/* Condensed variants */
+@font-face {
+    font-family: 'Instrument Sans Condensed';
+    src: url('instrument_sans/InstrumentSansCondensed-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Instrument Sans Condensed';
+    src: url('instrument_sans/InstrumentSansCondensed-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Instrument Sans Condensed';
+    src: url('instrument_sans/InstrumentSansCondensed-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Instrument Sans Condensed';
+    src: url('instrument_sans/InstrumentSansCondensed-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Instrument Sans Condensed';
+    src: url('instrument_sans/InstrumentSansCondensed-Italic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Instrument Sans Condensed';
+    src: url('instrument_sans/InstrumentSansCondensed-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Instrument Sans Condensed';
+    src: url('instrument_sans/InstrumentSansCondensed-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Instrument Sans Condensed';
+    src: url('instrument_sans/InstrumentSansCondensed-BoldItalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}

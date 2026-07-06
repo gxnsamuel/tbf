@@ -1,0 +1,117 @@
+/* =============================================================================
+   FONT STACK – HANDWRITING / NATURAL CATEGORY
+   Full @font-face declarations for the new batch
+   Base path: [Family]/
+   ============================================================================= */
+
+/* Shadows Into Light Two */
+@font-face {
+    font-family: 'Shadows Into Light Two';
+    src: url('Shadows_Into_Light_Two/ShadowsIntoLightTwo-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Shadows Into Light */
+@font-face {
+    font-family: 'Shadows Into Light';
+    src: url('Shadows_Into_Light/ShadowsIntoLight-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Nothing You Could Do */
+@font-face {
+    font-family: 'Nothing You Could Do';
+    src: url('Nothing_You_Could_Do/NothingYouCouldDo-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Kalam */
+@font-face {
+    font-family: 'Kalam';
+    src: url('Kalam/Kalam-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kalam';
+    src: url('Kalam/Kalam-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kalam';
+    src: url('Kalam/Kalam-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Indie Flower */
+@font-face {
+    font-family: 'Indie Flower';
+    src: url('Indie_Flower/IndieFlower-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Gochi Hand */
+@font-face {
+    font-family: 'Gochi Hand';
+    src: url('Gochi_Hand/GochiHand-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Caveat */
+@font-face {
+    font-family: 'Caveat';
+    src: url('Caveat/Caveat-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Caveat';
+    src: url('Caveat/Caveat-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Caveat';
+    src: url('Caveat/Caveat-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Caveat';
+    src: url('Caveat/Caveat-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Caveat Variable Font */
+@font-face {
+    font-family: 'Caveat';
+    src: url('Caveat/Caveat-VariableFont_wght.ttf') format('truetype');
+    font-weight: 400 700;
+    font-style: normal;
+    font-display: swap;
+}

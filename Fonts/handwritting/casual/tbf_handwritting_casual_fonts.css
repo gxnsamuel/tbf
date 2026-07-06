@@ -1,0 +1,94 @@
+/* =============================================================================
+   FONT STACK – HANDWRITING / CASUAL CATEGORY
+   Full @font-face declarations for the new batch
+   Base path: [Family]/
+   ============================================================================= */
+
+/* Schoolbell */
+@font-face {
+    font-family: 'Schoolbell';
+    src: url('Schoolbell/Schoolbell-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Rock Salt */
+@font-face {
+    font-family: 'Rock Salt';
+    src: url('Rock_Salt/RockSalt-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Reenie Beanie */
+@font-face {
+    font-family: 'Reenie Beanie';
+    src: url('Reenie_Beanie/ReenieBeanie-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Qwigley */
+@font-face {
+    font-family: 'Qwigley';
+    src: url('Qwigley/Qwigley-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Permanent Marker */
+@font-face {
+    font-family: 'Permanent Marker';
+    src: url('Permanent_Marker/PermanentMarker-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Pacifico */
+@font-face {
+    font-family: 'Pacifico';
+    src: url('Pacifico/Pacifico-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Coming Soon */
+@font-face {
+    font-family: 'Coming Soon';
+    src: url('Coming_Soon/ComingSoon-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Annie Use Your Telescope */
+@font-face {
+    font-family: 'Annie Use Your Telescope';
+    src: url('Annie_Use_Your_Telescope/AnnieUseYourTelescope-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Amatic SC */
+@font-face {
+    font-family: 'Amatic SC';
+    src: url('Amatic_SC/AmaticSC-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Amatic SC';
+    src: url('Amatic_SC/AmaticSC-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}

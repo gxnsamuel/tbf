@@ -1,0 +1,250 @@
+/* =============================================================================
+   SERIF FONT STACK – FULL @font-face declarations
+   Part 3/4 – PT Serif + Quattrocento + Quattrocento Sans + Rokkitt
+   ============================================================================= */
+
+/* PT Serif */
+@font-face {
+    font-family: 'PT Serif';
+    src: url('PT_Serif/PTSerif-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'PT Serif';
+    src: url('PT_Serif/PTSerif-Italic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'PT Serif';
+    src: url('PT_Serif/PTSerif-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'PT Serif';
+    src: url('PT_Serif/PTSerif-BoldItalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+
+/* Quattrocento */
+@font-face {
+    font-family: 'Quattrocento';
+    src: url('Quattrocento/Quattrocento-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Quattrocento';
+    src: url('Quattrocento/Quattrocento-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Quattrocento Sans */
+@font-face {
+    font-family: 'Quattrocento Sans';
+    src: url('Quattrocento_Sans/QuattrocentoSans-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Quattrocento Sans';
+    src: url('Quattrocento_Sans/QuattrocentoSans-Italic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Quattrocento Sans';
+    src: url('Quattrocento_Sans/QuattrocentoSans-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Quattrocento Sans';
+    src: url('Quattrocento_Sans/QuattrocentoSans-BoldItalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+
+/* Rokkitt – Full family + variable fonts */
+@font-face {
+    font-family: 'Rokkitt';
+    src: url('Rokkitt/Rokkitt-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rokkitt';
+    src: url('Rokkitt/Rokkitt-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rokkitt';
+    src: url('Rokkitt/Rokkitt-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rokkitt';
+    src: url('Rokkitt/Rokkitt-Italic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rokkitt';
+    src: url('Rokkitt/Rokkitt-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rokkitt';
+    src: url('Rokkitt/Rokkitt-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rokkitt';
+    src: url('Rokkitt/Rokkitt-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rokkitt';
+    src: url('Rokkitt/Rokkitt-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rokkitt';
+    src: url('Rokkitt/Rokkitt-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rokkitt';
+    src: url('Rokkitt/Rokkitt-BoldItalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rokkitt';
+    src: url('Rokkitt/Rokkitt-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rokkitt';
+    src: url('Rokkitt/Rokkitt-ExtraBoldItalic.ttf') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rokkitt';
+    src: url('Rokkitt/Rokkitt-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rokkitt';
+    src: url('Rokkitt/Rokkitt-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rokkitt';
+    src: url('Rokkitt/Rokkitt-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rokkitt';
+    src: url('Rokkitt/Rokkitt-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+/* Variable fonts for Rokkitt */
+@font-face {
+    font-family: 'Rokkitt';
+    src: url('Rokkitt/Rokkitt-VariableFont_wght.ttf') format('truetype');
+    font-weight: 100 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rokkitt';
+    src: url('Rokkitt/Rokkitt-Italic-VariableFont_wght.ttf') format('truetype');
+    font-weight: 100 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+/* Noto Serif Condensed – Black variants (from separate screenshot) */
+@font-face {
+    font-family: 'Noto Serif Condensed';
+    src: url('Noto_Serif/NotoSerif_Condensed-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Noto Serif Condensed';
+    src: url('Noto_Serif/NotoSerif_Condensed-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}

@@ -1,0 +1,180 @@
+/* =============================================================================
+   FONT STACK – HANDWRITING / CALLIGRAPHY CATEGORY
+   Full @font-face declarations for the new batch
+   Base path: [Family]/
+   ============================================================================= */
+
+/* Yellowtail */
+@font-face {
+    font-family: 'Yellowtail';
+    src: url('Yellowtail/Yellowtail-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Tangerine */
+@font-face {
+    font-family: 'Tangerine';
+    src: url('Tangerine/Tangerine-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Tangerine';
+    src: url('Tangerine/Tangerine-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Sacramento */
+@font-face {
+    font-family: 'Sacramento';
+    src: url('Sacramento/Sacramento-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Ruthie */
+@font-face {
+    font-family: 'Ruthie';
+    src: url('Ruthie/Ruthie-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Pinyon Script */
+@font-face {
+    font-family: 'Pinyon Script';
+    src: url('Pinyon_Script/PinyonScript-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Mr Dafoe */
+@font-face {
+    font-family: 'Mr Dafoe';
+    src: url('Mr_Dafoe/MrDafoe-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Miss Fajardose */
+@font-face {
+    font-family: 'Miss Fajardose';
+    src: url('Miss_Fajardose/MissFajardose-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Lovers Quarrel */
+@font-face {
+    font-family: 'Lovers Quarrel';
+    src: url('Lovers_Quarrel/LoversQuarrel-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Italianno */
+@font-face {
+    font-family: 'Italianno';
+    src: url('Italianno/Italianno-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Great Vibes */
+@font-face {
+    font-family: 'Great Vibes';
+    src: url('Great_Vibes/GreatVibes-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Euphoria Script */
+@font-face {
+    font-family: 'Euphoria Script';
+    src: url('Euphoria_Script/EuphoriaScript-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Dancing Script */
+@font-face {
+    font-family: 'Dancing Script';
+    src: url('Dancing_Script/DancingScript-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Dancing Script';
+    src: url('Dancing_Script/DancingScript-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Dancing Script';
+    src: url('Dancing_Script/DancingScript-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Dancing Script';
+    src: url('Dancing_Script/DancingScript-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Dancing Script';
+    src: url('Dancing_Script/DancingScript-VariableFont_wght.ttf') format('truetype');
+    font-weight: 400 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Clicker Script */
+@font-face {
+    font-family: 'Clicker Script';
+    src: url('Clicker_Script/ClickerScript-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Allura */
+@font-face {
+    font-family: 'Allura';
+    src: url('Allura/Allura-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Alex Brush */
+@font-face {
+    font-family: 'Alex Brush';
+    src: url('Alex_Brush/AlexBrush-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}

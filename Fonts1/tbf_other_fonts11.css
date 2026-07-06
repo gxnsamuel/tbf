@@ -1,0 +1,677 @@
+/* =============================================================================
+   FONT STACK – FULL @font-face declarations
+   Part 3/3 – Remaining fonts from this batch
+   Base path: [Family]/
+   ============================================================================= */
+
+/* Rosalina */
+@font-face {
+    font-family: 'Rosalina';
+    src: url('Rosalina_Complete/Fonts/Rosaline-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Satoshi */
+@font-face {
+    font-family: 'Satoshi';
+    src: url('Satoshi_Complete/Fonts/Satoshi-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Satoshi';
+    src: url('Satoshi_Complete/Fonts/Satoshi-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Satoshi';
+    src: url('Satoshi_Complete/Fonts/Satoshi-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Satoshi';
+    src: url('Satoshi_Complete/Fonts/Satoshi-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Satoshi';
+    src: url('Satoshi_Complete/Fonts/Satoshi-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Satoshi';
+    src: url('Satoshi_Complete/Fonts/Satoshi-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Satoshi';
+    src: url('Satoshi_Complete/Fonts/Satoshi-BoldItalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Satoshi';
+    src: url('Satoshi_Complete/Fonts/Satoshi-Variable.ttf') format('truetype');
+    font-weight: 300 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Satoshi';
+    src: url('Satoshi_Complete/Fonts/Satoshi-VariableItalic.ttf') format('truetype');
+    font-weight: 300 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+/* Science Gothic */
+@font-face {
+    font-family: 'Science Gothic';
+    src: url('science_gothic/ScienceGothic-Lt.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Science Gothic';
+    src: url('science_gothic/ScienceGothic-LtCnd.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Science Gothic';
+    src: url('science_gothic/ScienceGothic-LtExp.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Science Gothic';
+    src: url('science_gothic/ScienceGothic-Md.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Additional Science Gothic variants (Condensed, Expanded, etc.) */
+@font-face {
+    font-family: 'Science Gothic';
+    src: url('science_gothic/ScienceGothic-Blk.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Science Gothic';
+    src: url('science_gothic/ScienceGothic-BlkCnd.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Sentient */
+@font-face {
+    font-family: 'Sentient';
+    src: url('Sentient_Complete/Fonts/Sentient-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sentient';
+    src: url('Sentient_Complete/Fonts/Sentient-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sentient';
+    src: url('Sentient_Complete/Fonts/Sentient-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sentient';
+    src: url('Sentient_Complete/Fonts/Sentient-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sentient';
+    src: url('Sentient_Complete/Fonts/Sentient-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sentient';
+    src: url('Sentient_Complete/Fonts/Sentient-Variable.ttf') format('truetype');
+    font-weight: 200 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sentient';
+    src: url('Sentient_Complete/Fonts/Sentient-VariableItalic.ttf') format('truetype');
+    font-weight: 200 700;
+    font-style: italic;
+    font-display: swap;
+}
+
+/* Spline Sans */
+@font-face {
+    font-family: 'Spline Sans';
+    src: url('spline_sans/SplineSans-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Spline Sans';
+    src: url('spline_sans/SplineSans-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Spline Sans';
+    src: url('spline_sans/SplineSans-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Spline Sans';
+    src: url('spline_sans/SplineSans-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Spline Sans';
+    src: url('spline_sans/SplineSans-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Stardom */
+@font-face {
+    font-family: 'Stardom';
+    src: url('Stardom_Complete/Fonts/Stardom-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Supreme */
+@font-face {
+    font-family: 'Supreme';
+    src: url('Supreme_Complete/Fonts/Supreme-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Supreme';
+    src: url('Supreme_Complete/Fonts/Supreme-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Supreme';
+    src: url('Supreme_Complete/Fonts/Supreme-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Supreme';
+    src: url('Supreme_Complete/Fonts/Supreme-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Supreme';
+    src: url('Supreme_Complete/Fonts/Supreme-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Supreme';
+    src: url('Supreme_Complete/Fonts/Supreme-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Supreme';
+    src: url('Supreme_Complete/Fonts/Supreme-Variable.ttf') format('truetype');
+    font-weight: 100 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Switzer */
+@font-face {
+    font-family: 'Switzer';
+    src: url('Switzer_Complete/Fonts/Switzer-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Switzer';
+    src: url('Switzer_Complete/Fonts/Switzer-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Switzer';
+    src: url('Switzer_Complete/Fonts/Switzer-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Switzer';
+    src: url('Switzer_Complete/Fonts/Switzer-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Switzer';
+    src: url('Switzer_Complete/Fonts/Switzer-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Switzer';
+    src: url('Switzer_Complete/Fonts/Switzer-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Switzer';
+    src: url('Switzer_Complete/Fonts/Switzer-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Switzer';
+    src: url('Switzer_Complete/Fonts/Switzer-Variable.ttf') format('truetype');
+    font-weight: 100 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Synonym */
+@font-face {
+    font-family: 'Synonym';
+    src: url('Synonym_Complete/Fonts/Synonym-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Synonym';
+    src: url('Synonym_Complete/Fonts/Synonym-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Synonym';
+    src: url('Synonym_Complete/Fonts/Synonym-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Synonym';
+    src: url('Synonym_Complete/Fonts/Synonym-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Synonym';
+    src: url('Synonym_Complete/Fonts/Synonym-Variable.ttf') format('truetype');
+    font-weight: 300 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Tilda Sans */
+@font-face {
+    font-family: 'Tilda Sans';
+    src: url('tilda_sans/tilda-sans_light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Tilda Sans';
+    src: url('tilda_sans/tilda-sans_regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Tilda Sans';
+    src: url('tilda_sans/tilda-sans_medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Tilda Sans';
+    src: url('tilda_sans/tilda-sans_semibold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Tilda Sans';
+    src: url('tilda_sans/tilda-sans_bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Tilda Sans';
+    src: url('tilda_sans/tilda-sans_extra-bold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Tilda Sans';
+    src: url('tilda_sans/tilda-sans_vf.ttf') format('truetype');
+    font-weight: 300 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Tonnelier */
+@font-face {
+    font-family: 'Tonnelier';
+    src: url('tonnelier/Tonnelier-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Tonnelier';
+    src: url('tonnelier/Tonnelier-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Tonnelier';
+    src: url('tonnelier/Tonnelier-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Tonnelier';
+    src: url('tonnelier/Tonnelier-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Tonnelier';
+    src: url('tonnelier/Tonnelier-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Tonnelier';
+    src: url('tonnelier/Tonnelier-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Tonnelier';
+    src: url('tonnelier/Tonnelier-Heavy.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Unageo */
+@font-face {
+    font-family: 'Unageo';
+    src: url('unageo/Unageo-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Unageo';
+    src: url('unageo/Unageo-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Unageo';
+    src: url('unageo/Unageo-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Unageo';
+    src: url('unageo/Unageo-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Unageo';
+    src: url('unageo/Unageo-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Unageo';
+    src: url('unageo/Unageo-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Unageo';
+    src: url('unageo/Unageo-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Vercetti Regular */
+@font-face {
+    font-family: 'Vercetti';
+    src: url('Vercetti Regular/Vercetti-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Work Sans */
+@font-face {
+    font-family: 'Work Sans';
+    src: url('WorkSans/WorkSans-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Work Sans';
+    src: url('WorkSans/WorkSans-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Work Sans';
+    src: url('WorkSans/WorkSans-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Work Sans';
+    src: url('WorkSans/WorkSans-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Work Sans';
+    src: url('WorkSans/WorkSans-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Zodiak */
+@font-face {
+    font-family: 'Zodiak';
+    src: url('Zodiak_Complete/Fonts/Zodiak-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Zodiak';
+    src: url('Zodiak_Complete/Fonts/Zodiak-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Zodiak';
+    src: url('Zodiak_Complete/Fonts/Zodiak-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Zodiak';
+    src: url('Zodiak_Complete/Fonts/Zodiak-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Zodiak';
+    src: url('Zodiak_Complete/Fonts/Zodiak-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Zodiak';
+    src: url('Zodiak_Complete/Fonts/Zodiak-Variable.ttf') format('truetype');
+    font-weight: 300 900;
+    font-style: normal;
+    font-display: swap;
+}

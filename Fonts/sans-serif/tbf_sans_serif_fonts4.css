@@ -1,0 +1,361 @@
+/* =============================================================================
+   SANS-SERIF FONT STACK – FULL @font-face declarations
+   Part 4/5 – Encode Sans (all width variants)
+   ============================================================================= */
+
+/* Encode Sans – Normal width */
+@font-face {
+    font-family: 'Encode Sans';
+    src: url('EncodeSans/EncodeSans-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Encode Sans';
+    src: url('EncodeSans/EncodeSans-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Encode Sans';
+    src: url('EncodeSans/EncodeSans-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Encode Sans';
+    src: url('EncodeSans/EncodeSans-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Encode Sans';
+    src: url('EncodeSans/EncodeSans-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Encode Sans';
+    src: url('EncodeSans/EncodeSans-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Encode Sans';
+    src: url('EncodeSans/EncodeSans-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Encode Sans';
+    src: url('EncodeSans/EncodeSans-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Encode Sans Condensed */
+@font-face {
+    font-family: 'Encode Sans Condensed';
+    src: url('EncodeSans/EncodeSans_Condensed-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Encode Sans Condensed';
+    src: url('EncodeSans/EncodeSans_Condensed-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Encode Sans Condensed';
+    src: url('EncodeSans/EncodeSans_Condensed-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Encode Sans Condensed';
+    src: url('EncodeSans/EncodeSans_Condensed-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Encode Sans Condensed';
+    src: url('EncodeSans/EncodeSans_Condensed-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Encode Sans Condensed';
+    src: url('EncodeSans/EncodeSans_Condensed-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Encode Sans Condensed';
+    src: url('EncodeSans/EncodeSans_Condensed-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Encode Sans Condensed';
+    src: url('EncodeSans/EncodeSans_Condensed-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Encode Sans Condensed';
+    src: url('EncodeSans/EncodeSans_Condensed-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Encode Sans SemiCondensed */
+@font-face {
+    font-family: 'Encode Sans SemiCondensed';
+    src: url('EncodeSans/EncodeSans_SemiCondensed-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Encode Sans SemiCondensed';
+    src: url('EncodeSans/EncodeSans_SemiCondensed-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Encode Sans SemiCondensed';
+    src: url('EncodeSans/EncodeSans_SemiCondensed-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Encode Sans SemiCondensed';
+    src: url('EncodeSans/EncodeSans_SemiCondensed-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Encode Sans SemiCondensed';
+    src: url('EncodeSans/EncodeSans_SemiCondensed-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Encode Sans SemiCondensed';
+    src: url('EncodeSans/EncodeSans_SemiCondensed-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Encode Sans SemiCondensed';
+    src: url('EncodeSans/EncodeSans_SemiCondensed-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Encode Sans SemiCondensed';
+    src: url('EncodeSans/EncodeSans_SemiCondensed-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Encode Sans SemiCondensed';
+    src: url('EncodeSans/EncodeSans_SemiCondensed-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Encode Sans SemiExpanded */
+@font-face {
+    font-family: 'Encode Sans SemiExpanded';
+    src: url('EncodeSans/EncodeSans_SemiExpanded-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Encode Sans SemiExpanded';
+    src: url('EncodeSans/EncodeSans_SemiExpanded-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Encode Sans SemiExpanded';
+    src: url('EncodeSans/EncodeSans_SemiExpanded-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Encode Sans SemiExpanded';
+    src: url('EncodeSans/EncodeSans_SemiExpanded-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Encode Sans SemiExpanded';
+    src: url('EncodeSans/EncodeSans_SemiExpanded-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Encode Sans SemiExpanded';
+    src: url('EncodeSans/EncodeSans_SemiExpanded-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Encode Sans SemiExpanded';
+    src: url('EncodeSans/EncodeSans_SemiExpanded-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Encode Sans SemiExpanded';
+    src: url('EncodeSans/EncodeSans_SemiExpanded-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Encode Sans SemiExpanded';
+    src: url('EncodeSans/EncodeSans_SemiExpanded-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Encode Sans Expanded */
+@font-face {
+    font-family: 'Encode Sans Expanded';
+    src: url('EncodeSans/EncodeSans_Expanded-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Encode Sans Expanded';
+    src: url('EncodeSans/EncodeSans_Expanded-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Encode Sans Expanded';
+    src: url('EncodeSans/EncodeSans_Expanded-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Encode Sans Expanded';
+    src: url('EncodeSans/EncodeSans_Expanded-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Encode Sans Expanded';
+    src: url('EncodeSans/EncodeSans_Expanded-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Encode Sans Expanded';
+    src: url('EncodeSans/EncodeSans_Expanded-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Encode Sans Expanded';
+    src: url('EncodeSans/EncodeSans_Expanded-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Encode Sans Expanded';
+    src: url('EncodeSans/EncodeSans_Expanded-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Encode Sans Expanded';
+    src: url('EncodeSans/EncodeSans_Expanded-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}

@@ -1,0 +1,59 @@
+/* =============================================================================
+   FONT STACK – HANDWRITING / NEAT CATEGORY
+   Full @font-face declarations for the new batch
+   Base path: ../fonts/handwriting/neat/[Family]/
+   ============================================================================= */
+
+/* Short Stack */
+@font-face {
+    font-family: 'Short Stack';
+    src: url('Short_Stack/ShortStack-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Patrick Hand */
+@font-face {
+    font-family: 'Patrick Hand';
+    src: url('Patrick_Hand/PatrickHand-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Pangolin */
+@font-face {
+    font-family: 'Pangolin';
+    src: url('Pangolin/Pangolin-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Just Another Hand */
+@font-face {
+    font-family: 'Just Another Hand';
+    src: url('Just_Another_Hand/JustAnotherHand-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Handlee */
+@font-face {
+    font-family: 'Handlee';
+    src: url('Handlee/Handlee-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Architects Daughter */
+@font-face {
+    font-family: 'Architects Daughter';
+    src: url('Architects_Daughter/ArchitectsDaughter-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
