@@ -1,0 +1,230 @@
+
+Default Fonts
+    - Tinos
+    - Selawik
+    - Liberation Sans
+    - Liberation Serif
+    - Liberation Mono
+    - Cousine
+    - Carlito
+    - Caladea
+    - Arimo
+
+Display Fonts
+    - Tenor Sans
+    - Teko
+    - Righteous
+    - Playfair Display
+    - Oswald
+    - Fjalla One
+    - Cinzel
+    - Black Han Sans
+    - Bebas Neue
+    - Anton
+    - Abril Fatface
+
+Handwritting Casual
+    - Schoolbell
+    - Rock Salt
+    - Reenie Beanie
+    - Qwigley
+    - Permanent Marker
+    - Pacifico
+    - Coming Soon
+    - Annie Use Your Telescope
+    - Amatic SC
+
+Handwritting Natural
+    - Shadows Into Light Two
+    - Shadows Into Light
+    - Nothing You Could Do
+    - Kalam
+    - Indie Flower
+    - Gochi Hand
+    - Caveat
+
+Handwritting Neat
+    - Short Stack
+    - Patrick Hand
+    - Pangolin
+    - Just Another Hand
+    - Handlee
+    - Architects Daughter
+
+Monospace
+    - Courier Prime
+    - Cousine
+    - Hack
+    - Liberation Mono
+    - Noto Sans Mono
+    - Noto Sans Mono Condensed
+    - Noto Sans Mono SemiCondensed
+    - Noto Sans Mono ExtraCondensed
+
+Sans Serif
+    - Outfit
+    - Overpass
+    - Oxygen
+    - Alegreya Sans
+    - Arimo
+    - Asap
+    - Asap Condensed
+    - Asap SemiCondensed
+    - Asap SemiExpanded
+    - Asap Expanded
+    - Assistant
+    - Barlow
+    - Be Vietnam Pro
+    - Cabin
+    - Cabin Condensed
+    - Cabin SemiCondensed
+    - Caladea
+    - Catamaran
+    - Chivo
+    - DM Sans
+    - Encode Sans
+    - Encode Sans Condensed
+    - Encode Sans SemiCondensed
+    - Encode Sans SemiExpanded
+    - Encode Sans Expanded
+    - Exo 2
+    - Figtree
+    - Fira Sans
+    - Gudea
+    - Hind
+    - Inter
+    - Josefin Sans
+    - Jost
+    - Karla
+    - Lato
+    - Lexend
+    - Libre Franklin
+    - Manrope
+    - Montserrat
+    - Mulish
+    - Noto Sans Mono
+    - Noto Sans Mono Condensed
+    - Noto Sans Mono SemiCondensed
+    - Noto Sans Mono ExtraCondensed
+    - Noto Sans Mono
+    - Nunito
+    - Open Sans
+    - Open Sans Condensed
+    - Open Sans SemiCondensed
+    - Plus Jakarta Sans
+    - Poppins
+    - PT Sans
+    - Questrial
+    - Raleway
+    - Readex Pro
+    - Roboto
+    - Roboto Condensed
+    - Roboto SemiCondensed
+    - Rubik
+    - Selawik
+    - Sora
+    - Source Sans 3
+    - Tinos
+    - Titillium Web
+    - Ubuntu
+    - Urbanist
+    - Varela Round
+    - Work Sans
+    - Quattrocento Sans
+
+Serif
+    - Cardo
+    - Cormorant Garamond
+    - Crimson Text
+    - Alegreya
+    - Arvo
+    - Bitter
+    - Domine
+    - DM Serif Display
+    - EB Garamond
+    - Frank Ruhl Libre
+    - Gentium
+    - IBM Plex Serif
+    - Josefin Slab
+    - Libre Baskerville
+    - Libre Caslon Text
+    - Lora
+    - Martel
+    - Merriweather
+    - Neuton
+    - Noto Serif
+    - Noto Serif SemiCondensed
+    - Noto Serif Condensed
+    - Noto Serif ExtraCondensed
+    - Playfair Display
+    - PT Serif
+    - Quattrocento
+    - Rokkitt
+    - Source Serif 4
+    - Spectral
+    - Source Serif 4
+    - Vollkorn
+    - Zilla Slab
+
+Other Fonts
+    - Cabinet Grotesk
+    - Amulya
+    - Author
+    - Alpino
+    - Clarity City
+    - Alan Sans
+    - Changa
+    - Clear Sans
+    - Clash Display
+    - Chillax
+    - Creato Display
+    - Dortmund
+    - Excon
+    - Freesentation
+    - Gabarito
+    - Gambarino
+    - Gambetta
+    - Geist
+    - Geist Mono
+    - Geist Pixel
+    - General Sans
+    - Geologica
+    - Giphurs
+    - Giphurs SC
+    - Gmarket Sans
+    - Gully
+    - Gully CD
+    - Gully ECD
+    - Gully SCD
+    - Hitch Grotesk
+    - Instrument Sans
+    - Instrument Sans Condensed
+    - JHC Sines
+    - Kreadon
+    - Kumbh Sans
+    - LT Karake Body
+    - Mango Grotesque
+    - Nacelle
+    - Oak Sans
+    - Pitagon Sans
+    - Prodigy Sans
+    - Radlush
+    - REM
+    - Rethink Sans
+    - Rosalina
+    - Satoshi
+    - Science Gothic
+    - Sentient
+    - Spline Sans
+    - Stardom
+    - Supreme
+    - Switzer
+    - Synonym
+    - Tilda Sans
+    - Tonnelier
+    - Unageo
+    - Vercetti
+    - Work Sans
+    - Zodiak
+    - 
+
